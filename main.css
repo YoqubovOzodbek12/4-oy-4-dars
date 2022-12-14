@@ -1,0 +1,35 @@
+.cars__inner {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 25px;
+}
+
+.carsBox {
+    margin-bottom: 40px;
+    margin-left: 40px;
+}
+
+.carsImg {
+    width: 300px;
+    height: 250px;
+}
+
+.car {
+    text-align: center;
+}
+.years {
+    padding: 7px 20px 7px 20px;    
+}
+
+.marka {
+    padding: 7px 20px 7px 20px;    
+}
+
+.cost {
+    padding: 7px 20px 7px 20px;    
+}
+
+.btn {
+    padding: 7px 15px 7px 15px;
+}
